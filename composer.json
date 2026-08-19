@@ -1,0 +1,15 @@
+{
+    "name": "user/uploadenbd",
+    "autoload": {
+        "psr-4": {
+            "User\\Uploadenbd\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nexuusdev",
+            "email": "mamefat2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
